@@ -3,4 +3,4 @@ class Bike
     true
   end
 
-end
+end 
